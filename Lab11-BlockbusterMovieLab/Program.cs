@@ -1,5 +1,9 @@
 ﻿using System;
 
+//  Lab11 - Blockbuster Movies
+//  Author: Jeffrey Wohlfield
+//  Date:   02-02-2021
+
 namespace Lab11_BlockbusterMovieLab
 {
     class Program
