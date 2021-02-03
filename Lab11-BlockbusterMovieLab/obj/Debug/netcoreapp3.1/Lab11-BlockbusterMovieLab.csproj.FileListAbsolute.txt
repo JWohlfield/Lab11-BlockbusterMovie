@@ -1,0 +1,13 @@
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.exe
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.deps.json
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.runtimeconfig.json
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.runtimeconfig.dev.json
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.dll
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\bin\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.pdb
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.csprojAssemblyReference.cache
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.AssemblyInfoInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.AssemblyInfo.cs
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.csproj.CoreCompileInputs.cache
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.dll
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.pdb
+C:\Users\Butch\source\repos\Labs\Lab11-BlockbusterMovieLab\Lab11-BlockbusterMovieLab\obj\Debug\netcoreapp3.1\Lab11-BlockbusterMovieLab.genruntimeconfig.cache
